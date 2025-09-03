@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# The large dataset file
+# We will instruct users to download this manually
+Suicide_Detection.csv
+
+# Any other local environment files
+.vscode/
